@@ -5,4 +5,4 @@
 
 ---
 
-In this assignment I have built an ETL pipeline for statistics collection using Luigi framework.
+In this assignment I have built an ETL pipeline for statistics collection using PySpark and Luigi framework.
